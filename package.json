@@ -1,0 +1,13 @@
+{
+  "name": "19-bank-atm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ryan Tablada <ryan.tablada@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "inquirer": "^3.0.6",
+    "knex": "^0.12.7",
+    "pg": "^6.1.4"
+  }
+}
